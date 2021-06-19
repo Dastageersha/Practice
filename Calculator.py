@@ -17,3 +17,4 @@ elif (O==4):
     print("Devision of x and y is :", x/y)
 else:
     print("Selected a wrong option")
+Print("Thank you for using a basic Calculator :)")
