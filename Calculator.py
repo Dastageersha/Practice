@@ -18,3 +18,5 @@ elif (O==4):
 else:
     print("Selected a wrong option")
 Print("Thank you for using a basic Calculator :)")
+
+Upadte=input("let me know what other options you need here")
